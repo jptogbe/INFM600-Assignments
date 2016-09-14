@@ -1,2 +1,2 @@
-test
+Repository for assignments.
 ====
